@@ -5,3 +5,5 @@ Discord: [serapeum](https://discord.gg/5jhGXZh5)
 O la vittoria, o tutti accoppati!
 
 # Node is absolute trash.
+# Forced 2FA is trash.
+# Clouflare is trash.
