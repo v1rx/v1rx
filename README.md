@@ -6,4 +6,4 @@ O la vittoria, o tutti accoppati!
 
 # Node is absolute trash.
 # Forced 2FA is trash.
-# Clouflare is trash.
+# Cloudflare is trash.
